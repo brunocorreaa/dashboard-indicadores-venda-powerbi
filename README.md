@@ -86,9 +86,3 @@ O desenvolvimento do projeto envolveu as seguintes etapas:
 # Observação
 
 Os dados utilizados neste projeto foram **anonimizados**, preservando apenas a estrutura necessária para demonstrar o processo de análise e construção do dashboard.
-
----
-
-# Autor
-
-Bruno de Abreu Corrêa
